@@ -3,10 +3,6 @@
 	background-color: #29b1dd;
 }
 
-main {
-	height: calc(100vh - 162px);
-}
-
 .animal {
 	color: lightblue;
 }
