@@ -6,3 +6,15 @@
 main {
 	height: calc(100vh - 162px);
 }
+
+.animal {
+	color: lightblue;
+}
+
+.vegetable {
+	color: green;
+}
+
+.user {
+	color: blue;
+}
